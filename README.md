@@ -8,7 +8,9 @@ SQL es el lenguaje universal de las bases de datos relacionales. Cualquier backe
 * **Modalidad:** Tarea individual
 
 # 📝 Indicaciones
-Utilizando la base de datos de gestión de alojamientos turísticos proporcionada, se debe escribir y ejecutar las 20 consultas SQL guiadas de esta práctica, guardar todas las consultas en un único archivo `.sql` y documentar los resultados obtenidos con capturas de pantalla.
+Utilizando la base de datos de gestión de alojamientos turísticos proporcionada, se escribieron y ejecutaron las 20 consultas SQL guiadas de esta práctica, todas las consultas estan guardadas en un único archivo `.sql` en este repositorio.
+
+![Base de datos tourism](tourism.png)
 
 # 📊 Guía de consultas
 
